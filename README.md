@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that involve AI, data analysis, and ML/DL applications.
 - 🤔 I’m looking for help with challenging ML/DL problems and implementing cutting-edge algorithms.
 - 💬 Ask me about anything related to AI, Data Science, Machine Learning, and Deep Learning.
-- 📫 How to reach me: [YourEmail@example.com](mailto:youremail@example.com)
+- 📫 How to reach me: [contactwithwaqasahmed@gmail.com](mailto:youremail@example.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love to explore new AI applications in various domains and create AI-driven solutions.
 
@@ -31,7 +31,7 @@ I'm an AI, Data Scientist, and Machine Learning Engineer with a passion for solv
 
 ### Get in Touch
 
-If you have any questions, want to collaborate on an exciting project, or simply want to chat about AI and ML, feel free to reach out to me at [YourEmail@example.com](mailto:youremail@example.com). I'm always open to connecting with fellow enthusiasts and professionals in the field.
+If you have any questions, want to collaborate on an exciting project, or simply want to chat about AI and ML, feel free to reach out to me at [contactwithwaqasahmed@gmail.com](mailto:youremail@example.com). I'm always open to connecting with fellow enthusiasts and professionals in the field.
 
 ### Let's Innovate Together!
 
