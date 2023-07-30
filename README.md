@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
-<h3 align="center">A passionate AI Specialist from Kashmir, Pakistan</h3>
+<h3 align="center">A passionate AI Specialist from Kashmir, Pakistan.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasahmedbasharat&label=Profile%20views&color=0e75b6&style=flat" alt="waqasahmedbasharat" /> </p>
+
+- 🔭 I’m currently working on **AI, Data Science, and Machine Learning projects.**
+
+- 🌱 I’m currently learning **new techniques and tools to enhance my skills in ML and DL.**
+
+- 👯 I’m looking to collaborate on **projects that involve AI, data analysis, and ML/DL applications.**
+
+- 🤝 I’m looking for help with **challenging ML/DL problems and implementing cutting-edge algorithms.**
+
+- 📝 I regularly write articles on [https://www.aifutureinsights.com/](https://www.aifutureinsights.com/)
+
+- 💬 Ask me about **anything related to AI, Data Science, Machine Learning, and Deep Learning.**
+
+- 📫 How to reach me **contactwithwaqasahmed@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/waqas-ahmed-78001122b](www.linkedin.com/in/waqas-ahmed-78001122b)
+
+- ⚡ Fun fact **I love to explore new AI applications in various domains and create AI-driven solutions.**
+
+<img align="right" alt = "coding" width = "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasahmedbasharat&show_icons=true&locale=en" alt="waqasahmedbasharat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqasahmedbasharat&" alt="waqasahmedbasharat" /></p>
+
 
 
 
