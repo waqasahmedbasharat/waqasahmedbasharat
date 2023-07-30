@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with **challenging ML/DL problems and implementing cutting-edge algorithms.**
 
-- 📝 I regularly write articles on [https://www.aifutureinsights.com/](https://www.aifutureinsights.com/)
+- 📝 I regularly write articles on [AI Future Insights](https://www.aifutureinsights.com/)
 
 - 💬 Ask me about **anything related to AI, Data Science, Machine Learning, and Deep Learning.**
 
 - 📫 How to reach me **contactwithwaqasahmed@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/waqas-ahmed-78001122b](www.linkedin.com/in/waqas-ahmed-78001122b)
+- 📄 Know about my experiences [Waqas Ahmed CV](https://github.com/waqasahmedbasharat/waqasahmedbasharat/blob/main/Waqas%20Ahmed%20CV.pdf)
 
 - ⚡ Fun fact **I love to explore new AI applications in various domains and create AI-driven solutions.**
 
