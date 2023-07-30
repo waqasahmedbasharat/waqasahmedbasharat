@@ -21,6 +21,16 @@
 
 - ⚡ Fun fact **I love to explore new AI applications in various domains and create AI-driven solutions.**
 
+### About Me
+
+I'm an AI, Data Scientist, and Machine Learning Engineer with a passion for solving complex problems using data-driven approaches. My journey in the world of AI and ML began with a fascination for the potential of artificial intelligence to revolutionize industries and improve people's lives.
+
+### Let's Innovate Together!
+
+I believe that AI has the potential to reshape the future positively, and I'm eager to be part of that transformation. Let's join hands and innovate together to create intelligent systems that make the world a better place.
+
+Looking forward to exploring new ideas and building groundbreaking solutions! 😄🚀
+
 <img align="right" alt = "coding" width = "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
@@ -36,13 +46,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/waqasahmedbasharat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/waqasahmedbasharat" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasahmedbasharat&show_icons=true&locale=en&layout=compact" alt="waqasahmedbasharat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasahmedbasharat&show_icons=true&locale=en" alt="waqasahmedbasharat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqasahmedbasharat&" alt="waqasahmedbasharat" /></p>
-
 
 
 
@@ -61,9 +64,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love to explore new AI applications in various domains and create AI-driven solutions.
 
-### About Me
 
-I'm an AI, Data Scientist, and Machine Learning Engineer with a passion for solving complex problems using data-driven approaches. My journey in the world of AI and ML began with a fascination for the potential of artificial intelligence to revolutionize industries and improve people's lives.
 
 ### My Expertise
 
@@ -81,10 +82,6 @@ I'm an AI, Data Scientist, and Machine Learning Engineer with a passion for solv
 
 If you have any questions, want to collaborate on an exciting project, or simply want to chat about AI and ML, feel free to reach out to me at [contactwithwaqasahmed@gmail.com](mailto:youremail@example.com). I'm always open to connecting with fellow enthusiasts and professionals in the field.
 
-### Let's Innovate Together!
 
-I believe that AI has the potential to reshape the future positively, and I'm eager to be part of that transformation. Let's join hands and innovate together to create intelligent systems that make the world a better place.
-
-Looking forward to exploring new ideas and building groundbreaking solutions! 😄🚀
 
 ⚡ Fun fact: Apart from my love for AI, I'm also an avid hiker and enjoy exploring nature whenever I get the chance.
