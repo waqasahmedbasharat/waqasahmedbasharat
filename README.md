@@ -1,4 +1,4 @@
-![logo](https://github.com/waqasahmedbasharat/waqasahmedbasharat/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/waqasahmedbasharat/waqasahmedbasharat/blob/main/Github%20Banner(New).jpg)
 <h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
 <h3 align="center">A passionate AI Specialist from Azad Kashmir, Pakistan.</h3>
 
