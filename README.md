@@ -1,6 +1,6 @@
 ![logo](https://github.com/waqasahmedbasharat/waqasahmedbasharat/blob/main/Github%20Banner(New))
 <h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
-<h3 align="center">A passionate AI Specialist and Data Scientist from Kotli, Azad Kashmir, Pakistan.</h3>
+<h3 align="center">A Passionate AI Specialist and Data Scientist from Kotli, Azad Kashmir, Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasahmedbasharat&label=Profile%20views&color=0e75b6&style=flat" alt="waqasahmedbasharat" /> </p>
 
@@ -19,7 +19,7 @@
 - ⚡ **Fun Fact:** I love to explore new AI applications in various domains and create AI-driven solutions.
 
 ## Achievements
-- 🥈 Silver Medalist in FSC ICS
+- 🥈 Silver Medalist in FSc-ICS
 - 🥇 Gold Medalist in Bachelor's in Software Engineering
 
 ## About Me
