@@ -1,6 +1,6 @@
 ![logo](https://github.com/waqasahmedbasharat/waqasahmedbasharat/blob/main/Github%20Banner(New))
 <h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
-<h3 align="center">A passionate AI Specialist from Azad Kashmir, Pakistan.</h3>
+<h3 align="center">A passionate AI Specialist and Data Scientist from Kotli, Azad Kashmir, Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasahmedbasharat&label=Profile%20views&color=0e75b6&style=flat" alt="waqasahmedbasharat" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything related to AI, Data Science, Machine Learning, and Deep Learning.**
 
-- 📫 How to reach me **contactwithwaqasahmed@gmail.com**
+- 📫 How to reach me **waqasahmed@xactmind.com**
 
 - 📄 Know about my experiences [Check Out Waqas Ahmed CV](https://github.com/)
 
