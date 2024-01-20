@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **contactwithwaqasahmed@gmail.com**
 
-- 📄 Know about my experiences [Check Out Waqas Ahmed CV](https://github.com/waqasahmedbasharat/waqasahmedbasharat/blob/main/My%20CV.jpg)
+- 📄 Know about my experiences [Check Out Waqas Ahmed CV](https://github.com/)
 
 - ⚡ Fun fact **I love to explore new AI applications in various domains and create AI-driven solutions.**
 
