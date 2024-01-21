@@ -34,10 +34,10 @@ I have fortified my expertise in AI, Data Science, Machine Learning, Deep Learni
 - 🥈 Silver Medalist in FSc-ICS
 - 🥇 Gold Medalist in Bachelor's in Software Engineering
 
-## Skills
-- AI Development
-- Machine Learning
-- Deep Learning
+## Services
+- AI Development & Solutions
+- Machine Learning 
+- Deep Learning & Neural Netwoorks
 - Natural Language Processing (NLP)
 - Data Science and Visualization
 - Generative AI & Chatbots Development
@@ -64,38 +64,38 @@ I have fortified my expertise in AI, Data Science, Machine Learning, Deep Learni
   - Applied Data Science (IBM) - [Certificate](https://www.coursera.org/account/accomplishments/specialization/HQEXM55YCQF2)
 
 ## **Credly Badges:**
-  - Generative AI Essentials - [Badge](Link_to_Generative_AI_Essentials_Badge)
-  - Google Business Intelligence Certificate - [Badge](Link_to_Google_Business_Intelligence_Badge)
-  - IBM AI Ladder: A Framework for Deploying AI in your Enterprise - [Badge](Link_to_IBM_AI_Ladder_Badge)
-  - IBM AI Foundations for Business Specialization - [Badge](Link_to_IBM_AI_Foundations_Business_Badge)
-  - Google Data Analytics Professional Certificate - [Badge](Link_to_Google_Data_Analytics_Badge)
-  - Deep Learning Specialization - [Badge](Link_to_Deep_Learning_Specialization_Badge)
-  - IBM Applied AI Professional Certificate - [Badge](Link_to_IBM_Applied_AI_Professional_Badge)
-  - IBM Applied AI Professional Certificate (V3) - [Badge](Link_to_IBM_Applied_AI_Professional_V3_Badge)
-  - Chatbot Building Essentials - [Badge](Link_to_Chatbot_Building_Essentials_Badge)
-  - IBM AI Engineering Professional Certificate (V2) - [Badge](Link_to_IBM_AI_Engineering_Professional_V2_Badge)
-  - Data Science Foundations - [Badge](Link_to_Data_Science_Foundations_Badge)
-  - Deep Learning with Tensorflow - [Badge](Link_to_Deep_Learning_Tensorflow_Badge)
-  - Deep Neural Networks with PyTorch - [Badge](Link_to_Deep_Neural_Networks_PyTorch_Badge)
-  - Computer Vision and Image Processing Essentials - [Badge](Link_to_Computer_Vision_Image_Processing_Badge)
-  - Applied Data Science Specialization (V2) - [Badge](Link_to_Applied_Data_Science_Specialization_V2_Badge)
-  - IBM Data Science Professional Certificate - [Badge](Link_to_IBM_Data_Science_Professional_Badge)
-  - Applied Data Science Capstone - [Badge](Link_to_Applied_Data_Science_Capstone_Badge)
-  - Machine Learning with Python - [Badge](Link_to_Machine_Learning_Python_Badge)
-  - Data Visualization with Python - [Badge](Link_to_Data_Visualization_Python_Badge)
-  - Data Analysis with Python - [Badge](Link_to_Data_Analysis_Python_Badge)
-  - Databases and SQL for Data Science - [Badge](Link_to_Databases_SQL_Data_Science_Badge)
-  - Python Project for Data Science - [Badge](Link_to_Python_Project_Data_Science_Badge)
-  - Data Science Methodology - [Badge](Link_to_Data_Science_Methodology_Badge)
-  - Tools for Data Science V2 - [Badge](Link_to_Tools_for_Data_Science_V2_Badge)
-  - Data Science Orientation - [Badge](Link_to_Data_Science_Orientation_Badge)
-  - Python Project for AI and Application Development - [Badge](Link_to_Python_Project_AI_Application_Development_Badge)
-  - Python for Data Science and AI - [Badge](Link_to_Python_Data_Science_AI_Badge)
-  - Node and Express Essentials - [Badge](Link_to_Node_Express_Essentials_Badge)
-  - Front-end Development with React - [Badge](Link_to_Frontend_Development_React_Badge)
-  - Git and GitHub Essentials - [Badge](Link_to_Git_GitHub_Essentials_Badge)
-  - Web Development with HTML, CSS, JavaScript Essentials - [Badge](Link_to_Web_Development_HTML_CSS_JavaScript_Essentials_Badge)
-  - Introduction to Cloud Computing - [Badge](Link_to_Introduction_to_Cloud_Computing_Badge)
+  - Generative AI Essentials - [Badge](https://www.credly.com/earner/earned/badge/92e3159c-ac57-4fc9-b713-04076b20ecc3)
+  - Google Business Intelligence Certificate - [Badge](https://www.credly.com/earner/earned/badge/910804f2-e621-4efb-bfef-6a117aa5c0e3)
+  - IBM AI Ladder: A Framework for Deploying AI in your Enterprise - [Badge](https://www.credly.com/earner/earned/badge/6cd7eb8b-c4d8-42f7-8199-42f82fad4c93)
+  - IBM AI Foundations for Business Specialization - [Badge](https://www.credly.com/earner/earned/badge/3972f80c-b01b-44c6-b71e-e5ce8336a207)
+  - Google Data Analytics Professional Certificate - [Badge](https://www.credly.com/earner/earned/badge/9ec05538-5013-4f4f-a22e-531da11e6f46)
+  - Deep Learning Specialization - [Badge](https://www.credly.com/earner/earned/badge/5034cb5b-acf9-4b48-9db8-fa6da6f9efb3)
+  - IBM Applied AI Professional Certificate - [Badge](https://www.credly.com/earner/earned/badge/dc3369e8-e330-4971-bae8-43b6035df52b)
+  - IBM Applied AI Professional Certificate (V3) - [Badge](https://www.credly.com/earner/earned/badge/6c1fb854-7b5c-424d-a7e2-3c180190132d)
+  - Chatbot Building Essentials - [Badge](https://www.credly.com/earner/earned/badge/27f92b20-e3b7-4d72-aab1-9f652b7cc2aa)
+  - IBM AI Engineering Professional Certificate (V2) - [Badge](https://www.credly.com/earner/earned/badge/d2372112-5801-4eef-ba92-a2de6ff896c9)
+  - Data Science Foundations - [Badge](https://www.credly.com/earner/earned/badge/d0d3df56-795b-4df6-8ed5-3c79883cde31)
+  - Deep Learning with Tensorflow - [Badge](https://www.credly.com/earner/earned/badge/4bc748b7-ff15-4bae-83ea-d9d1d8631a9e)
+  - Deep Neural Networks with PyTorch - [Badge](https://www.credly.com/earner/earned/badge/83f8b18d-c720-4c95-b8a5-7ba6a102abb8)
+  - Computer Vision and Image Processing Essentials - [Badge](https://www.credly.com/earner/earned/badge/7b8ece4e-bd8b-4005-8b7f-999aa4d29dfc)
+  - Applied Data Science Specialization (V2) - [Badge](https://www.credly.com/earner/earned/badge/633f19f1-8a10-454b-92d0-34245515b51b)
+  - IBM Data Science Professional Certificate - [Badge](https://www.credly.com/earner/earned/badge/c037ae09-230c-4af8-939a-69d50e7e445f)
+  - Applied Data Science Capstone - [Badge](https://www.credly.com/earner/earned/badge/29d6cdf5-66ff-4ba8-a7a1-8bccac540c19)
+  - Machine Learning with Python - [Badge](https://www.credly.com/earner/earned/badge/3b4f4aaf-ad05-4c28-b087-182408790e6f)
+  - Data Visualization with Python - [Badge](https://www.credly.com/earner/earned/badge/431d4bac-f9e4-431c-8f31-833a0a952a3a)
+  - Data Analysis with Python - [Badge](https://www.credly.com/earner/earned/badge/b5d83959-da8d-41d6-96ea-a3e3b46514d1)
+  - Databases and SQL for Data Science - [Badge](https://www.credly.com/earner/earned/badge/d23f3140-76a0-4e5f-9402-6ee5c7fd2b2d)
+  - Python Project for Data Science - [Badge](https://www.credly.com/earner/earned/badge/b7b93136-5c50-440c-beb7-08b3a8f14651)
+  - Data Science Methodology - [Badge](https://www.credly.com/earner/earned/badge/13219a05-6511-4e72-85a0-f6910230fc15)
+  - Tools for Data Science V2 - [Badge](https://www.credly.com/earner/earned/badge/ce4447c8-74f2-4569-bd99-142a915b1294)
+  - Data Science Orientation - [Badge](https://www.credly.com/earner/earned/badge/a69afccb-0d68-49f8-b99a-b2794b4555ee)
+  - Python Project for AI and Application Development - [Badge](https://www.credly.com/earner/earned/badge/c190d7f3-da39-4e6a-b5ec-eda34d665a92)
+  - Python for Data Science and AI - [Badge](https://www.credly.com/earner/earned/badge/05ef87da-fe92-411d-9691-ef704ab1b72c)
+  - Node and Express Essentials - [Badge](https://www.credly.com/earner/earned/badge/f1d4170e-8ac6-47b6-bcf6-4e983b1f6675)
+  - Front-end Development with React - [Badge](https://www.credly.com/earner/earned/badge/eb578ede-18da-4f81-8190-a487d86565b6)
+  - Git and GitHub Essentials - [Badge](https://www.credly.com/earner/earned/badge/a14afe26-a546-46b7-8271-d9b512638546)
+  - Web Development with HTML, CSS, JavaScript Essentials - [Badge](https://www.credly.com/earner/earned/badge/c4a23f79-5b17-43f3-8c12-068497bb82e4)
+  - Introduction to Cloud Computing - [Badge](https://www.credly.com/earner/earned/badge/887e81b8-c2ee-4dfb-9e52-3f8cd50ee854)
 
 ## **Let's Innovate Together!**
 Join me on this transformative journey at Xact Mind, where we harness the power of AI to shape the future of intelligent solutions. Let's explore new horizons together.
