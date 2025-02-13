@@ -1,4 +1,3 @@
-![logo](https://github.com/waqasahmedbasharat/waqasahmedbasharat/blob/main/Meet_Waqas_Ahmed.png)
 <h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
 <h3 align="center">A Passionate AI Specialist and Data Scientist from Kotli, Azad Kashmir, Pakistan.</h3>
 
